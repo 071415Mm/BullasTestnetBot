@@ -3,6 +3,7 @@ A script which can play the bullas automatically
 
 ####
 代码仅做学习用途。
+如果代码对你有帮助，那请点个star吧！
 ###
 
 ###
